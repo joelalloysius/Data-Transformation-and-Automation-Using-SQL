@@ -46,6 +46,8 @@ PostgreSQL
 
 ### SQL Code
 
+[View full query](SQL%20Automation%20Query.sql)
+
 ### Business Impact
 
 The SQL automation solution significantly improved the efficiency, accuracy, and scalability of the certificate reporting process for the Accreditation Body.
