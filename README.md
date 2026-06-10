@@ -32,9 +32,17 @@ PostgreSQL
 
 ### Data Structure
 
+![SQL Table Structure](Data%20Structure%20and%20Workflows/SQL%20Table%20Structure.jpg)
+
+![Required Output](Data%20Structure%20and%20Workflows/Required%20Output.jpg)
+
 ### Existing Process
 
+![Existing Process](Data%20Structure%20and%20Workflows/Existing%20Process.jpg)
+
 ### SQL Architecture
+
+![SQL Architecture](Data%20Structure%20and%20Workflows/SQL%20Architecture.jpg)
 
 ### SQL Code
 
