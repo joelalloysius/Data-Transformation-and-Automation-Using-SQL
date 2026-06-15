@@ -46,7 +46,7 @@ PostgreSQL
 
 ### SQL Code
 
-[View full query](SQL%20Automation%20Query.sql)
+[View full query](SQL_Automation_Query.sql)
 
 ### Business Impact
 
