@@ -248,7 +248,7 @@ WHERE scope_count = 1
 AND "Certificate Number" NOT IN (SELECT "Certificate Number" FROM Single_Site_1))
 AND "Scope Language" IS NOT NULL),
 
--- All Main Sites
+-- All Main Sites.
 Main AS (
 SELECT * FROM Single_Site_1
 UNION
