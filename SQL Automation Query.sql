@@ -264,6 +264,7 @@ SELECT * FROM Multisite_3
 UNION
 SELECT * FROM Multisite_4)
 
+-- Standards per main site
 SELECT m."Certificate Number",s."Standard",s."Standard Name"
 FROM Main as m
 LEFT JOIN public."Standards" as s
